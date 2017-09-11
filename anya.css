@@ -1,0 +1,32 @@
+body {
+	color:white;
+	font-family:"Futura",Futura,sans-serif;
+	background-image:url("img/PhotoBourg2_bg_c-1.jpg");
+	padding:30px;
+}
+h1 {
+	font-variant:small-caps;
+	letter-spacing:2px;
+	line-height:75%;
+}
+h2 {
+	font-variant:small-caps;
+	color:gray;
+	line-height:75%;
+}
+td {
+	vertical-align:text-top;
+	padding:10px;
+}
+a:link {
+	color:moccasin;
+	text-decoration:none;
+}
+a:visited {
+	color:moccasin;
+	text-decoration:none;
+}
+a:hover {
+	color:sandybrown;
+	text-decoration:none;
+}
